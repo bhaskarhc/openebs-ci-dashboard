@@ -1,0 +1,61 @@
+.sidebar-style {
+    font-family: Mulish;
+  }
+  .active-sidebar-item {
+    background-color: #9fa2b4;
+    color: #dde2ff;
+    // border-left: 10px solid #DDE2FF;
+    font-size: 18px;
+  }
+  
+  .act-nav {
+    color: #dde2ff !important;
+    font-weight: bold;
+  }
+  
+  .sidebar-group {
+    background-color: rgba(159, 162, 180, 0.4);
+    font-size: 16px;
+    li {
+      color: #a4a6b3;
+      margin: 15px 5px;
+    }
+  }
+  
+  .storage-engine-links {
+    color: #a4a6b3;
+  }
+  
+  .storage-engine-link-active {
+    color: #dde2ff;
+  }
+  
+  .storage-link-items {
+    list-style-type: none;
+  }
+  
+  .status-tooltip .tooltip-inner {
+    background-color: #9fa2b4;
+    font-size: 10px !important;
+    color: azure;
+  }
+  
+  .footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-size: 12px;
+  }
+  
+  .version {
+    font-size: 10px;
+  }
+  
+  .powered-by {
+    font-size: 10px;
+    display: block;
+  }
+  .dashboard-title {
+    font-size: 20px;
+  }
+  
